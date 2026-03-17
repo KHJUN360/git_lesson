@@ -8,3 +8,5 @@ remote 변수 사용해보기
 check
 
 change
+
+select insert
