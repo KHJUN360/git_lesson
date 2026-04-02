@@ -9,5 +9,8 @@ int main() {
     if(i == 10) {
         printf("\nLoop completed successfully.");
     }
+    else {
+        printf("Not 10");
+    }
     return 0;
 }
