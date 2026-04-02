@@ -12,5 +12,6 @@ int main() {
     else {
         printf("Not 10");
     }
+    printf("Happy!");
     return 0;
 }
