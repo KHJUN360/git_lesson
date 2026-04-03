@@ -12,7 +12,5 @@ int main() {
     else {
         printf("Not 10");
     }
-    printf("Happy!");
-    printf("non Happy..");
     return 0;
 }
